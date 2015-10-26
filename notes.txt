@@ -1,0 +1,8 @@
+use the new Date(2015,3,-2) function
+resize as you click, sometimes stretches to 6 weeks
+calendar.google
+model seperate from the view
+put data in a set of javascript objects and fucntions
+
+array where months/days are indexes? each value is an array of events
+jquery ui for diag box

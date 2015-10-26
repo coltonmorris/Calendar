@@ -3,4 +3,7 @@ A nice looking calendar app made in JavaScript. You can add events by clicking o
 chronological order for an easy to-do lists.
 
 #Screenshots
-![main page](
+Calendar page with events added. </br>
+![main page](main.png)</br>
+Event list. </br>
+![event page](event.png)</br>

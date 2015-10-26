@@ -1,6 +1,6 @@
 # Calendar
 A nice looking calendar app made in JavaScript. You can add events by clicking on a date. The event view sorts your events in
-chronological order for an easy to-do lists. I use Twitter Bootstrap for responsive css.
+chronological order for an easy to-do list. I use Twitter Bootstrap for responsive css.
 
 #Screenshots
 Calendar page with events added. </br>
